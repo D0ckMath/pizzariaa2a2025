@@ -1,5 +1,6 @@
 import './App.css'
 import Produtos from './pages/produtos'
+import CadastroProduto from './pages/produtos/cadastro'
 
 const App = () => {
   
